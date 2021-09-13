@@ -1,0 +1,44 @@
+{
+    "users": [
+       {
+           "id": 1,
+           "name": "Jon Doe",
+           "email": "jdoe@gmail.com"
+       },
+       {
+           "id": 2,
+           "name": "Bob Builder",
+           "email": "bb@gmail.com"
+       },
+       {
+           "id": 3,
+           "name": "Jeff Sky",
+           "email": "jsky@gmail.com"
+       }
+    ],
+    "posts":[],
+    "likes":[],
+    "comments":[],
+    "workoutCategories":[
+        {
+            "id":1,
+            "type": "Upper Body",
+            "image":"https://thumbs.dreamstime.com/b/illustration-young-woman-performing-exercises-isolated-light-background-colorful-flat-vector-illustration-upper-body-190552627.jpg"
+        },
+        {
+            "id":2,
+            "type": "Lower Body",
+            "image":"https://thumbs.dreamstime.com/b/illustration-young-woman-performing-exercises-isolated-light-background-colorful-flat-vector-lower-body-workout-190331394.jpg"
+        },
+        {
+            "id":3,
+            "type": "Core",
+            "image":"https://thumbs.dreamstime.com/b/man-doing-plank-exercise-core-workout-exercising-home-side-view-146195407.jpg"
+        },
+        {
+            "id":4,
+            "type": "Cardio",
+            "image":"https://thumbs.dreamstime.com/b/fitness-woman-runner-training-girl-runs-up-steps-athlete-upstairs-back-view-tracksuit-active-lifestyle-vector-204576489.jpg"
+        }
+    ]
+}
